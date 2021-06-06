@@ -4,7 +4,7 @@
 - 🏄 &nbsp;I work daily with HTML CSS and Javascript to create beautiful and responsive websites.
 - 🚀 &nbsp;I can develop apps with React, Redux and Typescript.
 - 🌱 &nbsp;learning more about: typescript, algorithms and data Structures
-- 📝&nbsp;Blog (Coming Soon);
+- 📝 &nbsp;Blog (Coming Soon);
 
 #### 💬 &nbsp;Get in touch
 - [LinkedIn](https://www.linkedin.com/in/thomas-roy-chappel-iv/)

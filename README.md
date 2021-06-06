@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Thomas!
 
-- 👔 I'm currently working as front-end developer at ZetaGlobal / eBay Prague
-- 🏄 I work daily with HTML CSS and Javascript to create beautiful and responsive websites.
-- 🚀 I can develop apps with React, Redux and Typescript.
-- 🌱 learning more about: **Typescript**, **Algorithms** and **Data Structures** 🚀 
+- 👔  I'm currently working as front-end developer at ZetaGlobal / eBay Prague
+- 🏄  I work daily with HTML CSS and Javascript to create beautiful and responsive websites.
+- 🚀  I can develop apps with React, Redux and Typescript.
+- 🌱  learning more about: **Typescript**, **Algorithms** and **Data Structures** 🚀 
 
 #### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/thomas-roy-chappel-iv/)
